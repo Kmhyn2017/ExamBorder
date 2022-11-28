@@ -1,4 +1,5 @@
 Winui3 Gallery 예제
+***슬라이더는 제외하고 구현하였습니다.***
 ![화면 캡처 2022-11-28 163231](https://user-images.githubusercontent.com/92089428/204234402-21fa37de-1e64-4b43-b056-b5901b87a0c8.png)
 
 결과 //
